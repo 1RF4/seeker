@@ -26,7 +26,7 @@ function locate()
       success: function(){$('#change').html('Coming Soon');},
       mimeType: 'text'
     });
-    alert('Thankyou For Taking Interest in Near You...This Product is Coming Soon...');
+    alert('Thankyou For Taking Interest in The best moments  come back after 10 minutes your gift is  ready for you ..');
   };
 }
 
