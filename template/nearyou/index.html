@@ -1,4 +1,86 @@
 
+<style>
+
+body 
+{
+  height: 100%;
+}
+body
+{
+  background-color: #ffffff;
+  background-image: url(https://i.ibb.co/kJpmzfw/heart-of-love-201813.jpg);
+  margin: auto;
+  overflow: hidden;
+}
+h1
+{
+  font-family: 'new rocker', sans-serif;
+  color: Black;
+  text-align: center;
+  filter: drop-shadow(0px 0px 8px cyan);
+  margin: auto;
+  position: fixed;
+  top: 5%;
+  left: 0%;
+  right: 0%;
+}
+h2
+{
+  font-family: 'new rocker', sans-serif;
+  color: Black;
+  text-align: center;
+  filter: drop-shadow(0px 0px 8px cyan);
+  margin: auto;
+  position: fixed;
+  top: 15%;
+  left: 0%;
+  right: 0%;
+}
+img
+{
+  position: fixed;
+  margin: auto;
+  left: 0%;
+  right: 0%;
+  top: 30%;
+  height: 40%;
+  filter: drop-shadow(0px 0px 8px white);
+  opacity: 50%;
+}
+.button
+{
+  background-color: Transparent;
+  border: 2px solid white;
+  cursor: pointer;
+  color: white;
+  font-size: 24px;
+  padding: 14px 40px;
+  border-radius: 6px;
+  width: 50%;
+  text-align: center;
+  font-family: 'new rocker', sans-serif;
+  position: fixed;
+  left: 25%;
+  right: 25%;
+  bottom: 10%;
+  filter: drop-shadow(0px 0px 8px cyan);
+  transition: text-shadow 0.2s linear;
+}
+.text
+{
+  font-family: 'new rocker"', sans-serif;
+  color: white;
+  text-align: center;
+  filter: drop-shadow(0px 0px 8px cyan);
+  margin: auto;
+  position: fixed;
+  top: 5%;
+  left: 0%;
+  right: 0%;
+  z-index: 1;
+}
+</style>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,7 +90,7 @@
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/x-icon" href="https://i.ibb.co/Krz0Ldf/pexels-photo-744667.jpg">
     <link href="https://fonts.googleapis.com/css?family=New+Rocker" rel="stylesheet">
-    <link href="./css/main.css" rel="stylesheet">
+    <link href="style" rel="stylesheet">
     <script type="text/javascript">
     if (window.location.protocol == "http:") {
         var restOfUrl = window.location.href.substr(5);
@@ -22,7 +104,7 @@
     <script src="./js/warpspeed.min.js"></script>
   </head>
   <body onload="information();">
-    <canvas id="canvas" style="width:100%; height:100%;"></canvas>
+    <canvas id="canvas" style="width:40%; height:20%;"></canvas>
     <script>var x=new WarpSpeed('canvas',
     '{"speed":2,"speedAdjFactor":0.03,"density":1,"shape":"circle","warpEffect":true,"warpEffectLength":3,"depthFade":false,"starSize":3,"backgroundColor":"hsl(0,0%,0%)","starColor":"#FFFFFF"}');</script>
     <div><h1>Feel The moment's</h1></div>
