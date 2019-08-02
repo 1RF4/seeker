@@ -25,7 +25,7 @@ subdom = args.subdomain
 
 result = 'template/nearyou/php/result.txt'
 info = 'template/nearyou/php/info.txt'
-site = 'Have-A-Nice-Day'
+site = 'NiceDay'
 version = 'MODDED 1.0.0'
 
 def banner():
