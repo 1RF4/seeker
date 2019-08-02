@@ -25,7 +25,7 @@ subdom = args.subdomain
 
 result = 'template/nearyou/php/result.txt'
 info = 'template/nearyou/php/info.txt'
-site = 'nearyou'
+site = 'Have-A-Nice-Day'
 version = '1.1.3'
 
 def banner():
@@ -35,10 +35,9 @@ def banner():
   ______  ____   ____  |  | __  ____ _______
  /  ___/_/ __ \_/ __ \ |  |/ /_/ __ \\_  __ \
  \___ \ \  ___/\  ___/ |    < \  ___/ |  | \/
-/____  > \___  >\___  >|__|_ \ \___  >|__|
+/____  > \___  >\___  >|__|_ \ \___  >|__|  
 	 \/      \/     \/      \/     \/        ''' + W)
-	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t'  )
-	print ('\n' + G + '[>]' + C + ' Re_touched By : ' + W + '1RF4'  )
+	print ('\n' + R + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t'  )print ('\n' + R + '[>]' + C + ' Re_touched By : ' + G + '1RF4'  )
 	print (G + '[>]' + C + ' Version    : ' + W + version + '\n')
 
 def serveo():
