@@ -67,7 +67,7 @@ Along with Location Information we also get **Device Information** without any p
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/1RF4/seeker.git
 cd seeker/
 chmod 777 install.sh
 ./install.sh
@@ -76,7 +76,7 @@ chmod 777 install.sh
 ### BlackArch Linux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/1RF4/seeker.git
 cd seeker/
 chmod 777 arch_install.sh
 ./arch_install.sh
@@ -108,7 +108,7 @@ docker run -t seeker
 ### Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/1RF4/seeker.gitttp
 cd seeker/
 chmod 777 termux_install.sh
 ./termux_install.sh
