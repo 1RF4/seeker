@@ -4,7 +4,7 @@ Accurately Locate People using Social Engineering
 </h4>
 <h3>WHAT'S NEW</h3>
 <h4
->create an attractive html(webpage) and  more accurate</h4>
+>create an attractive Webpage and  more accurate</h4>
 <h5>modded by 1RF4N</h5>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3-brightgreen.svg?style=plastic">
